@@ -6,19 +6,19 @@
   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-bnsl&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-bnsl" /> </p>
 
-- 🔭 I’m currently working on **Personal Project**
+- 🔭 I’m currently working on **Moveie Booking System Backend(Using LLD)**
 
-- 🌱 I’m currently learning **Reactjs,Nodejs,Express,MongoDb**
+- 🌱 I’m currently learning **NextJs,**
 
 - 👯 I’m looking to collaborate with **Awsome Projects**
 
-- 💬 Ask me about **Reactjs**
+- 💬 Ask me about **NextJs,Reactjs,Nodejs,Express,MongoDb**
 
 - 📫 How to reach me **bansal.sbhm@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FZylAeGze5PcWyBSOFMamcRy2frZpJqo/view?usp=sharing](https://drive.google.com/file/d/1FZylAeGze5PcWyBSOFMamcRy2frZpJqo/view?usp=sharing)
 
-- ⚡ Fun fact **I am learning enthusiastic and funny person who loves to explore NewTech**
+- ⚡ Fun fact **I am learning enthusiastic and Sarcastic person who loves to explore**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
