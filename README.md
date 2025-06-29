@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Moveie Booking System Backend(Using LLD)**
 
-- 🌱 I’m currently learning **NextJs,**
+- 🌱 I’m currently learning **AWS,**
 
-- 👯 I’m looking to collaborate with **Awsome Projects**
+- 👯 I’m looking to collaborate with **Impactful Projects**
 
-- 💬 Ask me about **NextJs,Reactjs,Nodejs,Express,MongoDb**
+- 💬 Ask me about **Nodejs,Express,MongoDb,MySQL**
 
 - 📫 How to reach me **bansal.sbhm@gmail.com**
 
