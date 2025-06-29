@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Bansal</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
- <p align="center">
-  <img src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" alt="shubham-bnsl" />
- <p>
-  
- <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="shubham-bnsl" /> </p>
+<h3 align="center">A passionate Backend developer from India</h3>  
+ <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="shubham-bnsl" /> </p>
 
 - 🔭 I’m currently working on **Moveie Booking System Backend(Using LLD)**
 
