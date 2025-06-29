@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Bansal</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
  <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*kIacWWXjfYBFXqIXhIuCXQ.gif" alt="shubham-bnsl" />
+  <img src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" alt="shubham-bnsl" />
  <p>
   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-bnsl&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-bnsl" /> </p>
