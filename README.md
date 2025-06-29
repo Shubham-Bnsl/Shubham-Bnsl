@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" alt="shubham-bnsl" />
  <p>
   
- <p align="left"> <img src="E:\ezgif.com-resize.gif" alt="shubham-bnsl" /> </p>
+ <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="shubham-bnsl" /> </p>
 
 - 🔭 I’m currently working on **Moveie Booking System Backend(Using LLD)**
 
